@@ -1,0 +1,1 @@
+This was my first project using Java and Android Studios. My goal in doing this app was to get some practice with Java as I learned the language. It is a simple App with no focus on the visual aspects as this was an exercise to learn Java.
